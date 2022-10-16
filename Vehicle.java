@@ -1,4 +1,4 @@
-class Vehicles{
+class Vehicle{
 	
 	String vehicleType;
 	int start;
