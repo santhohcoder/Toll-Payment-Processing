@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class toll{
+class Toll{
 	
 	static int totaltolls;
 	static int totalvehiclescreated;
